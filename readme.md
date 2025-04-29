@@ -1,1 +1,1 @@
-If you want to see documentation you can read "documentation.pdg"
+All important informations are in "Documentation.pdf"
